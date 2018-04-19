@@ -1,0 +1,23 @@
+Last login: Thu Apr 19 10:54:20 on ttys000
+Mazzziu-MacBook-Pro:vane Mazzziu$ ./EjemploTipos
+Los tipos de datos son:
+Double: 10.697
+Unsigned int: 10
+Int: 10
+String: vane
+Bool: 1
+Char: V
+Mazzziu-MacBook-Pro:vane Mazzziu$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
